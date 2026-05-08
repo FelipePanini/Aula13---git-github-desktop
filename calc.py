@@ -13,3 +13,9 @@ def divisao (a, b):
     if b == 0:
         return "Erro: Divisão por zero não é permitida."
     return (a / b)
+
+def potencia (a, b):
+    return (a ** b)
+
+def raiz_quadrada (a):
+    return (a ** 0.5)
